@@ -8,6 +8,9 @@ code,
 .markup_a7e664 code.inline,
 .after_inlineCode__2197d,
 .before_inlineCode__37e14,
+.inlineCode_d702a4 {
+    font-family: mono, monospace;
+}
 
 /* Color Pallete */
 
@@ -952,6 +955,7 @@ code,
     color: var(--text-muted);
     white-space: pre;
     text-transform: none;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
     line-height: 17px !important;
 }
 
