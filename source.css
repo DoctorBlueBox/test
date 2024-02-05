@@ -952,7 +952,6 @@ code,
     color: var(--text-muted);
     white-space: pre;
     text-transform: none;
-    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
     line-height: 17px !important;
 }
 
